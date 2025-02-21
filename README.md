@@ -20,4 +20,4 @@ A simple and efficient Todo List application built with HTML, CSS, and JavaScrip
 3. Open the index.html file in your browser:
 
 ## UI Structure
-![screenshot](assets/ui.png)
+![screenshot](public/images/ui.png)
